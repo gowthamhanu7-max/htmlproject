@@ -1,1 +1,1 @@
-# myproject was selected
+# myproject was new one
